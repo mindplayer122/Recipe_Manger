@@ -4,7 +4,7 @@ A simple Python recipe manager built with Streamlit. The application allows user
 
 ## Live Demo 
 
-[view the live demo]()
+[view the live demo](https://8t9qe9r3dhfkvhmccdmro5.streamlit.app)
 
 ## Features
 
